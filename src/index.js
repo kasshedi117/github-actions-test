@@ -1,1 +1,1 @@
-const prop = 'singleQuotes';
+const prop = "singleQuotes";
